@@ -1,4 +1,4 @@
-Time;Time.Code;Country.Name;Country.Code;GDP.per.capita;GDP.per.capita.growth;"Population; total [SP,POP,TOTL]";Current.account.balance ;Compulsoryeducation.duration;Total.natural.resources.rents ;Consumer.price.index ;Inflation.consumer.prices ;GDP ;Life.expectancy.at.birth.total;Real.interest.rate
+Time;Time.Code;Country.Name;Country.Code;GDP.per.capita;GDP.per.capita.growth;"Population.total;Current.account.balance ;Compulsoryeducation.duration;Total.natural.resources.rents ;Consumer.price.index ;Inflation.consumer.prices ;GDP ;Life.expectancy.at.birth.total;Real.interest.rate
 2008;YR2008;Afghanistan;AFG;412,0142867;1,59421129;27722276;-9,046159891;9;0,60385565;105,0210647;26,41866415;11421973771;59,93;12,55796015
 2008;YR2008;Albania;ALB;3775,592212;8,328035999;2947314;-15,62852894;8;1,629199242;94,40423163;3,363137574;11127855785;75,912;8,550425319
 2008;YR2008;Algeria;DZA;4406,947221;0,698952973;34730608;19,85623983;10;34,88560814;91,01458318;4,858590628;1,53056E+11;74,311;-6,376359454
